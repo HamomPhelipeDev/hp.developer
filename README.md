@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Hamom Phelipe Developer" src=".github/preview.jpeg" width=50"%">
+  <img alt="Hamom Phelipe Developer" src=".github/preview.jpeg" width=65"%">
 </p>
 
 ## 🚀 Tecnologias
